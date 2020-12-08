@@ -1,0 +1,1 @@
+# Second Multimedia Project - ElasticSearch
